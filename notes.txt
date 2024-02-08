@@ -1,0 +1,1 @@
+seems like font awesome is not supported, need to see what astro uses for font/icons
